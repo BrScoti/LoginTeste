@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "584342558766",
+    "firebase_url": "https://loginteste-cb41a.firebaseio.com",
+    "project_id": "loginteste-cb41a",
+    "storage_bucket": "loginteste-cb41a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584342558766:android:36ab2159aa596a65",
+        "android_client_info": {
+          "package_name": "com.example.bruno.loginteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584342558766-8hfgl8d9k9vu9re9trpf977re7h97ho3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bruno.loginteste",
+            "certificate_hash": "0a23717d43efaf3de37e290d860fcba0cc3fca30"
+          }
+        },
+        {
+          "client_id": "584342558766-ci22kb8uofg0bs0crkkflm2fuhod53m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bruno.loginteste",
+            "certificate_hash": "ea2fe29f71d6f6ae97b59f61bbb1ac3c35dfac0e"
+          }
+        },
+        {
+          "client_id": "584342558766-9tc9c3biep32k2ap8gj9aamhe3hv24ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPz5mIEA-Uo_I7A9U3d_OUPZN4j5fhmx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584342558766-9tc9c3biep32k2ap8gj9aamhe3hv24ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
